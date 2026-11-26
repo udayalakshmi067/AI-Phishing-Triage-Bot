@@ -1,0 +1,101 @@
+sender,subject,risk_score,classification,model_phishing_probability,indicators,urls_found,body
+notice@unknown-sender.example.test,Mailbox suspension notice,46,MEDIUM - Suspicious,0.602,Urgency / credential / payment language,,You won a gift card. Claim your prize immediately using this link.
+security@account-alert.example.test,Payment failed - action required,44,MEDIUM - Suspicious,0.566,Urgency / credential / payment language,,Please review the invoice attachment and enable macros to view payment details.
+security@account-alert.example.test,Unusual sign-in detected,45,MEDIUM - Suspicious,0.59,Urgency / credential / payment language,,Please review the invoice attachment and enable macros to view payment details.
+security@account-alert.example.test,Claim your reward now,54,MEDIUM - Suspicious,0.631,1 URL(s) found; Urgency / credential / payment language,http://secure-login-example.test,Your account is locked. Verify your password immediately at http://secure-login-example.test
+security@account-alert.example.test,Package delivery issue,46,MEDIUM - Suspicious,0.599,Urgency / credential / payment language,,You won a gift card. Claim your prize immediately using this link.
+security@account-alert.example.test,Claim your reward now,54,MEDIUM - Suspicious,0.631,1 URL(s) found; Urgency / credential / payment language,http://secure-login-example.test,Your account is locked. Verify your password immediately at http://secure-login-example.test
+hr@gmail.com,Urgent: Verify your account,52,MEDIUM - Suspicious,0.594,Urgency / credential / payment language; Free-mail sender with business/payment request,,Please review the invoice attachment and enable macros to view payment details.
+security@account-alert.example.test,Claim your reward now,53,MEDIUM - Suspicious,0.621,1 URL(s) found; Urgency / credential / payment language,http://login-check.example.test,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+security@account-alert.example.test,Package delivery issue,54,MEDIUM - Suspicious,0.632,1 URL(s) found; Urgency / credential / payment language,http://secure-login-example.test,Your account is locked. Verify your password immediately at http://secure-login-example.test
+billing@payment-example.test,Urgent: Verify your account,46,MEDIUM - Suspicious,0.594,Urgency / credential / payment language,,Please review the invoice attachment and enable macros to view payment details.
+billing@payment-example.test,Invoice overdue,46,MEDIUM - Suspicious,0.604,Urgency / credential / payment language,,You won a gift card. Claim your prize immediately using this link.
+billing@payment-example.test,Payment failed - action required,44,MEDIUM - Suspicious,0.566,Urgency / credential / payment language,,Please review the invoice attachment and enable macros to view payment details.
+notice@unknown-sender.example.test,Mailbox suspension notice,54,MEDIUM - Suspicious,0.635,1 URL(s) found; Urgency / credential / payment language,http://secure-login-example.test,Your account is locked. Verify your password immediately at http://secure-login-example.test
+billing@payment-example.test,Unusual sign-in detected,55,MEDIUM - Suspicious,0.642,1 URL(s) found; Urgency / credential / payment language,http://secure-login-example.test,Your account is locked. Verify your password immediately at http://secure-login-example.test
+security@account-alert.example.test,Urgent: Verify your account,46,MEDIUM - Suspicious,0.594,Urgency / credential / payment language,,Please review the invoice attachment and enable macros to view payment details.
+billing@payment-example.test,Payroll verification,53,MEDIUM - Suspicious,0.622,1 URL(s) found; Urgency / credential / payment language,http://login-check.example.test,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+hr@gmail.com,Unusual sign-in detected,47,MEDIUM - Suspicious,0.612,Urgency / credential / payment language,,You won a gift card. Claim your prize immediately using this link.
+hr@gmail.com,Unusual sign-in detected,47,MEDIUM - Suspicious,0.623,Urgency / credential / payment language,,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+billing@payment-example.test,Mailbox suspension notice,54,MEDIUM - Suspicious,0.625,1 URL(s) found; Urgency / credential / payment language,http://login-check.example.test,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+billing@payment-example.test,Payment failed - action required,44,MEDIUM - Suspicious,0.566,Urgency / credential / payment language,,Please review the invoice attachment and enable macros to view payment details.
+notice@unknown-sender.example.test,Payroll verification,47,MEDIUM - Suspicious,0.61,Urgency / credential / payment language,,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+hr@gmail.com,Invoice overdue,50,MEDIUM - Suspicious,0.574,Urgency / credential / payment language; Free-mail sender with business/payment request,,Please review the invoice attachment and enable macros to view payment details.
+security@account-alert.example.test,Payment failed - action required,44,MEDIUM - Suspicious,0.566,Urgency / credential / payment language,,Please review the invoice attachment and enable macros to view payment details.
+hr@gmail.com,Mailbox suspension notice,47,MEDIUM - Suspicious,0.614,Urgency / credential / payment language,,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+billing@payment-example.test,Payroll verification,46,MEDIUM - Suspicious,0.598,Urgency / credential / payment language,,You won a gift card. Claim your prize immediately using this link.
+security@account-alert.example.test,Payment failed - action required,44,MEDIUM - Suspicious,0.566,Urgency / credential / payment language,,Please review the invoice attachment and enable macros to view payment details.
+notice@unknown-sender.example.test,Unusual sign-in detected,52,MEDIUM - Suspicious,0.608,1 URL(s) found; Urgency / credential / payment language,http://login-check.example.test,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+notice@unknown-sender.example.test,Payroll verification,44,MEDIUM - Suspicious,0.571,Urgency / credential / payment language,,Please review the invoice attachment and enable macros to view payment details.
+hr@gmail.com,Payment failed - action required,54,MEDIUM - Suspicious,0.632,1 URL(s) found; Urgency / credential / payment language,http://secure-login-example.test,Your account is locked. Verify your password immediately at http://secure-login-example.test
+notice@unknown-sender.example.test,Payroll verification,53,MEDIUM - Suspicious,0.622,1 URL(s) found; Urgency / credential / payment language,http://login-check.example.test,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+security@account-alert.example.test,Urgent: Verify your account,54,MEDIUM - Suspicious,0.639,1 URL(s) found; Urgency / credential / payment language,http://login-check.example.test,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+notice@unknown-sender.example.test,Payroll verification,47,MEDIUM - Suspicious,0.61,Urgency / credential / payment language,,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+hr@gmail.com,Unusual sign-in detected,55,MEDIUM - Suspicious,0.642,1 URL(s) found; Urgency / credential / payment language,http://secure-login-example.test,Your account is locked. Verify your password immediately at http://secure-login-example.test
+hr@gmail.com,Unusual sign-in detected,46,MEDIUM - Suspicious,0.601,Urgency / credential / payment language,,Urgent action required: confirm your credentials to avoid account suspension.
+security@account-alert.example.test,Payroll verification,54,MEDIUM - Suspicious,0.631,1 URL(s) found; Urgency / credential / payment language,http://secure-login-example.test,Your account is locked. Verify your password immediately at http://secure-login-example.test
+billing@payment-example.test,Invoice overdue,46,MEDIUM - Suspicious,0.592,Urgency / credential / payment language,,Urgent action required: confirm your credentials to avoid account suspension.
+billing@payment-example.test,Package delivery issue,46,MEDIUM - Suspicious,0.599,Urgency / credential / payment language,,You won a gift card. Claim your prize immediately using this link.
+hr@gmail.com,Payment failed - action required,45,MEDIUM - Suspicious,0.586,Urgency / credential / payment language,,Urgent action required: confirm your credentials to avoid account suspension.
+hr@gmail.com,Package delivery issue,50,MEDIUM - Suspicious,0.572,Urgency / credential / payment language; Free-mail sender with business/payment request,,Please review the invoice attachment and enable macros to view payment details.
+notice@unknown-sender.example.test,Mailbox suspension notice,46,MEDIUM - Suspicious,0.602,Urgency / credential / payment language,,You won a gift card. Claim your prize immediately using this link.
+notice@unknown-sender.example.test,Package delivery issue,47,MEDIUM - Suspicious,0.611,Urgency / credential / payment language,,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+hr@gmail.com,Claim your reward now,45,MEDIUM - Suspicious,0.584,Urgency / credential / payment language,,Urgent action required: confirm your credentials to avoid account suspension.
+security@account-alert.example.test,Mailbox suspension notice,45,MEDIUM - Suspicious,0.581,Urgency / credential / payment language,,Urgent action required: confirm your credentials to avoid account suspension.
+billing@payment-example.test,Claim your reward now,54,MEDIUM - Suspicious,0.631,1 URL(s) found; Urgency / credential / payment language,http://secure-login-example.test,Your account is locked. Verify your password immediately at http://secure-login-example.test
+hr@gmail.com,Mailbox suspension notice,47,MEDIUM - Suspicious,0.614,Urgency / credential / payment language,,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+notice@unknown-sender.example.test,Urgent: Verify your account,46,MEDIUM - Suspicious,0.593,Urgency / credential / payment language,,Urgent action required: confirm your credentials to avoid account suspension.
+hr@gmail.com,Unusual sign-in detected,51,MEDIUM - Suspicious,0.59,Urgency / credential / payment language; Free-mail sender with business/payment request,,Please review the invoice attachment and enable macros to view payment details.
+notice@unknown-sender.example.test,Mailbox suspension notice,54,MEDIUM - Suspicious,0.625,1 URL(s) found; Urgency / credential / payment language,http://login-check.example.test,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+security@account-alert.example.test,Payroll verification,53,MEDIUM - Suspicious,0.622,1 URL(s) found; Urgency / credential / payment language,http://login-check.example.test,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+hr@gmail.com,Package delivery issue,46,MEDIUM - Suspicious,0.599,Urgency / credential / payment language,,You won a gift card. Claim your prize immediately using this link.
+events@organisation.example.test,Class notes attached,23,LOW - Likely safe,0.38,No basic indicators detected,,Your library book is due next Friday. Please return it on time.
+events@organisation.example.test,Meeting agenda for tomorrow,22,LOW - Likely safe,0.374,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+teacher@college.example.test,Library book reminder,24,LOW - Likely safe,0.402,No basic indicators detected,,Your library book is due next Friday. Please return it on time.
+team@company.example.test,Class notes attached,22,LOW - Likely safe,0.373,No basic indicators detected,,The project status meeting is scheduled for 10 AM in room 204.
+teacher@college.example.test,Class notes attached,23,LOW - Likely safe,0.378,No basic indicators detected,,Please review the meeting agenda before tomorrow's team meeting.
+team@company.example.test,Class notes attached,22,LOW - Likely safe,0.373,No basic indicators detected,,The project status meeting is scheduled for 10 AM in room 204.
+teacher@college.example.test,Class notes attached,24,LOW - Likely safe,0.403,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Project status update,24,LOW - Likely safe,0.4,No basic indicators detected,,Your appointment is confirmed for Monday at 3 PM.
+library@college.example.test,Appointment confirmation,24,LOW - Likely safe,0.395,No basic indicators detected,,Thanks for your report. I have added comments to the shared document.
+library@college.example.test,Approved purchase order,22,LOW - Likely safe,0.371,No basic indicators detected,,Please review the meeting agenda before tomorrow's team meeting.
+teacher@college.example.test,Approved purchase order,22,LOW - Likely safe,0.373,No basic indicators detected,,Your library book is due next Friday. Please return it on time.
+events@organisation.example.test,Approved purchase order,22,LOW - Likely safe,0.366,No basic indicators detected,,The project status meeting is scheduled for 10 AM in room 204.
+teacher@college.example.test,Project status update,24,LOW - Likely safe,0.395,No basic indicators detected,,Please review the meeting agenda before tomorrow's team meeting.
+library@college.example.test,Team lunch moved to Thursday,22,LOW - Likely safe,0.358,No basic indicators detected,,Your library book is due next Friday. Please return it on time.
+team@company.example.test,Meeting agenda for tomorrow,22,LOW - Likely safe,0.374,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+library@college.example.test,Project status update,24,LOW - Likely safe,0.4,No basic indicators detected,,Your appointment is confirmed for Monday at 3 PM.
+teacher@college.example.test,Team lunch moved to Thursday,21,LOW - Likely safe,0.358,No basic indicators detected,,Your appointment is confirmed for Monday at 3 PM.
+teacher@college.example.test,Team lunch moved to Thursday,22,LOW - Likely safe,0.362,No basic indicators detected,,Thanks for your report. I have added comments to the shared document.
+library@college.example.test,Project status update,24,LOW - Likely safe,0.402,No basic indicators detected,,The project status meeting is scheduled for 10 AM in room 204.
+team@company.example.test,Appointment confirmation,24,LOW - Likely safe,0.401,No basic indicators detected,,Your appointment is confirmed for Monday at 3 PM.
+team@company.example.test,Library book reminder,23,LOW - Likely safe,0.388,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Library book reminder,23,LOW - Likely safe,0.388,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Appointment confirmation,24,LOW - Likely safe,0.401,No basic indicators detected,,Your appointment is confirmed for Monday at 3 PM.
+teacher@college.example.test,Meeting agenda for tomorrow,22,LOW - Likely safe,0.368,No basic indicators detected,,The project status meeting is scheduled for 10 AM in room 204.
+events@organisation.example.test,Team lunch moved to Thursday,22,LOW - Likely safe,0.363,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+library@college.example.test,Approved purchase order,22,LOW - Likely safe,0.373,No basic indicators detected,,Your appointment is confirmed for Monday at 3 PM.
+library@college.example.test,Appointment confirmation,23,LOW - Likely safe,0.388,No basic indicators detected,,Please review the meeting agenda before tomorrow's team meeting.
+team@company.example.test,Class notes attached,24,LOW - Likely safe,0.403,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Library book reminder,22,LOW - Likely safe,0.374,No basic indicators detected,,The project status meeting is scheduled for 10 AM in room 204.
+team@company.example.test,Approved purchase order,23,LOW - Likely safe,0.377,No basic indicators detected,,Thanks for your report. I have added comments to the shared document.
+teacher@college.example.test,Approved purchase order,22,LOW - Likely safe,0.373,No basic indicators detected,,Your appointment is confirmed for Monday at 3 PM.
+library@college.example.test,Class notes attached,23,LOW - Likely safe,0.38,No basic indicators detected,,Your appointment is confirmed for Monday at 3 PM.
+teacher@college.example.test,Monthly newsletter,23,LOW - Likely safe,0.385,No basic indicators detected,,Your appointment is confirmed for Monday at 3 PM.
+team@company.example.test,Approved purchase order,23,LOW - Likely safe,0.378,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Appointment confirmation,23,LOW - Likely safe,0.388,No basic indicators detected,,Please review the meeting agenda before tomorrow's team meeting.
+events@organisation.example.test,Approved purchase order,22,LOW - Likely safe,0.373,No basic indicators detected,,Your library book is due next Friday. Please return it on time.
+teacher@college.example.test,Project status update,24,LOW - Likely safe,0.405,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+team@company.example.test,Meeting agenda for tomorrow,22,LOW - Likely safe,0.374,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Project status update,24,LOW - Likely safe,0.401,No basic indicators detected,,Thanks for your report. I have added comments to the shared document.
+events@organisation.example.test,Appointment confirmation,24,LOW - Likely safe,0.396,No basic indicators detected,,Here are the lecture notes from today's class for your reference.
+team@company.example.test,Meeting agenda for tomorrow,24,LOW - Likely safe,0.399,No basic indicators detected,,Please review the meeting agenda before tomorrow's team meeting.
+teacher@college.example.test,Project status update,24,LOW - Likely safe,0.398,No basic indicators detected,,Your library book is due next Friday. Please return it on time.
+team@company.example.test,Library book reminder,23,LOW - Likely safe,0.38,No basic indicators detected,,Please review the meeting agenda before tomorrow's team meeting.
+library@college.example.test,Library book reminder,22,LOW - Likely safe,0.374,No basic indicators detected,,The project status meeting is scheduled for 10 AM in room 204.
+team@company.example.test,Appointment confirmation,23,LOW - Likely safe,0.382,No basic indicators detected,,The project status meeting is scheduled for 10 AM in room 204.
+events@organisation.example.test,Project status update,24,LOW - Likely safe,0.395,No basic indicators detected,,Please review the meeting agenda before tomorrow's team meeting.
+library@college.example.test,Approved purchase order,22,LOW - Likely safe,0.373,No basic indicators detected,,Your appointment is confirmed for Monday at 3 PM.
+events@organisation.example.test,Project status update,24,LOW - Likely safe,0.401,No basic indicators detected,,Thanks for your report. I have added comments to the shared document.
+team@company.example.test,Meeting agenda for tomorrow,22,LOW - Likely safe,0.37,No basic indicators detected,,Your library book is due next Friday. Please return it on time.
+team@company.example.test,Meeting agenda for tomorrow,22,LOW - Likely safe,0.374,No basic indicators detected,,Here are the lecture notes from today's class for your reference.

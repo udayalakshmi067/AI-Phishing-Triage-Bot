@@ -1,0 +1,101 @@
+sender,subject,body
+notice@unknown-sender.example.test,Mailbox suspension notice,You won a gift card. Claim your prize immediately using this link.
+security@account-alert.example.test,Payment failed - action required,Please review the invoice attachment and enable macros to view payment details.
+security@account-alert.example.test,Unusual sign-in detected,Please review the invoice attachment and enable macros to view payment details.
+security@account-alert.example.test,Claim your reward now,Your account is locked. Verify your password immediately at http://secure-login-example.test
+security@account-alert.example.test,Package delivery issue,You won a gift card. Claim your prize immediately using this link.
+security@account-alert.example.test,Claim your reward now,Your account is locked. Verify your password immediately at http://secure-login-example.test
+hr@gmail.com,Urgent: Verify your account,Please review the invoice attachment and enable macros to view payment details.
+security@account-alert.example.test,Claim your reward now,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+security@account-alert.example.test,Package delivery issue,Your account is locked. Verify your password immediately at http://secure-login-example.test
+billing@payment-example.test,Urgent: Verify your account,Please review the invoice attachment and enable macros to view payment details.
+billing@payment-example.test,Invoice overdue,You won a gift card. Claim your prize immediately using this link.
+billing@payment-example.test,Payment failed - action required,Please review the invoice attachment and enable macros to view payment details.
+notice@unknown-sender.example.test,Mailbox suspension notice,Your account is locked. Verify your password immediately at http://secure-login-example.test
+billing@payment-example.test,Unusual sign-in detected,Your account is locked. Verify your password immediately at http://secure-login-example.test
+security@account-alert.example.test,Urgent: Verify your account,Please review the invoice attachment and enable macros to view payment details.
+billing@payment-example.test,Payroll verification,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+hr@gmail.com,Unusual sign-in detected,You won a gift card. Claim your prize immediately using this link.
+hr@gmail.com,Unusual sign-in detected,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+billing@payment-example.test,Mailbox suspension notice,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+billing@payment-example.test,Payment failed - action required,Please review the invoice attachment and enable macros to view payment details.
+notice@unknown-sender.example.test,Payroll verification,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+hr@gmail.com,Invoice overdue,Please review the invoice attachment and enable macros to view payment details.
+security@account-alert.example.test,Payment failed - action required,Please review the invoice attachment and enable macros to view payment details.
+hr@gmail.com,Mailbox suspension notice,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+billing@payment-example.test,Payroll verification,You won a gift card. Claim your prize immediately using this link.
+security@account-alert.example.test,Payment failed - action required,Please review the invoice attachment and enable macros to view payment details.
+notice@unknown-sender.example.test,Unusual sign-in detected,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+notice@unknown-sender.example.test,Payroll verification,Please review the invoice attachment and enable macros to view payment details.
+hr@gmail.com,Payment failed - action required,Your account is locked. Verify your password immediately at http://secure-login-example.test
+notice@unknown-sender.example.test,Payroll verification,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+security@account-alert.example.test,Urgent: Verify your account,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+notice@unknown-sender.example.test,Payroll verification,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+hr@gmail.com,Unusual sign-in detected,Your account is locked. Verify your password immediately at http://secure-login-example.test
+hr@gmail.com,Unusual sign-in detected,Urgent action required: confirm your credentials to avoid account suspension.
+security@account-alert.example.test,Payroll verification,Your account is locked. Verify your password immediately at http://secure-login-example.test
+billing@payment-example.test,Invoice overdue,Urgent action required: confirm your credentials to avoid account suspension.
+billing@payment-example.test,Package delivery issue,You won a gift card. Claim your prize immediately using this link.
+hr@gmail.com,Payment failed - action required,Urgent action required: confirm your credentials to avoid account suspension.
+hr@gmail.com,Package delivery issue,Please review the invoice attachment and enable macros to view payment details.
+notice@unknown-sender.example.test,Mailbox suspension notice,You won a gift card. Claim your prize immediately using this link.
+notice@unknown-sender.example.test,Package delivery issue,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+hr@gmail.com,Claim your reward now,Urgent action required: confirm your credentials to avoid account suspension.
+security@account-alert.example.test,Mailbox suspension notice,Urgent action required: confirm your credentials to avoid account suspension.
+billing@payment-example.test,Claim your reward now,Your account is locked. Verify your password immediately at http://secure-login-example.test
+hr@gmail.com,Mailbox suspension notice,Your payment failed. Update bank details using this unfamiliar link bit.ly/example
+notice@unknown-sender.example.test,Urgent: Verify your account,Urgent action required: confirm your credentials to avoid account suspension.
+hr@gmail.com,Unusual sign-in detected,Please review the invoice attachment and enable macros to view payment details.
+notice@unknown-sender.example.test,Mailbox suspension notice,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+security@account-alert.example.test,Payroll verification,Unusual sign-in detected. Reset your password now at http://login-check.example.test
+hr@gmail.com,Package delivery issue,You won a gift card. Claim your prize immediately using this link.
+events@organisation.example.test,Class notes attached,Your library book is due next Friday. Please return it on time.
+events@organisation.example.test,Meeting agenda for tomorrow,Here are the lecture notes from today's class for your reference.
+teacher@college.example.test,Library book reminder,Your library book is due next Friday. Please return it on time.
+team@company.example.test,Class notes attached,The project status meeting is scheduled for 10 AM in room 204.
+teacher@college.example.test,Class notes attached,Please review the meeting agenda before tomorrow's team meeting.
+team@company.example.test,Class notes attached,The project status meeting is scheduled for 10 AM in room 204.
+teacher@college.example.test,Class notes attached,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Project status update,Your appointment is confirmed for Monday at 3 PM.
+library@college.example.test,Appointment confirmation,Thanks for your report. I have added comments to the shared document.
+library@college.example.test,Approved purchase order,Please review the meeting agenda before tomorrow's team meeting.
+teacher@college.example.test,Approved purchase order,Your library book is due next Friday. Please return it on time.
+events@organisation.example.test,Approved purchase order,The project status meeting is scheduled for 10 AM in room 204.
+teacher@college.example.test,Project status update,Please review the meeting agenda before tomorrow's team meeting.
+library@college.example.test,Team lunch moved to Thursday,Your library book is due next Friday. Please return it on time.
+team@company.example.test,Meeting agenda for tomorrow,Here are the lecture notes from today's class for your reference.
+library@college.example.test,Project status update,Your appointment is confirmed for Monday at 3 PM.
+teacher@college.example.test,Team lunch moved to Thursday,Your appointment is confirmed for Monday at 3 PM.
+teacher@college.example.test,Team lunch moved to Thursday,Thanks for your report. I have added comments to the shared document.
+library@college.example.test,Project status update,The project status meeting is scheduled for 10 AM in room 204.
+team@company.example.test,Appointment confirmation,Your appointment is confirmed for Monday at 3 PM.
+team@company.example.test,Library book reminder,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Library book reminder,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Appointment confirmation,Your appointment is confirmed for Monday at 3 PM.
+teacher@college.example.test,Meeting agenda for tomorrow,The project status meeting is scheduled for 10 AM in room 204.
+events@organisation.example.test,Team lunch moved to Thursday,Here are the lecture notes from today's class for your reference.
+library@college.example.test,Approved purchase order,Your appointment is confirmed for Monday at 3 PM.
+library@college.example.test,Appointment confirmation,Please review the meeting agenda before tomorrow's team meeting.
+team@company.example.test,Class notes attached,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Library book reminder,The project status meeting is scheduled for 10 AM in room 204.
+team@company.example.test,Approved purchase order,Thanks for your report. I have added comments to the shared document.
+teacher@college.example.test,Approved purchase order,Your appointment is confirmed for Monday at 3 PM.
+library@college.example.test,Class notes attached,Your appointment is confirmed for Monday at 3 PM.
+teacher@college.example.test,Monthly newsletter,Your appointment is confirmed for Monday at 3 PM.
+team@company.example.test,Approved purchase order,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Appointment confirmation,Please review the meeting agenda before tomorrow's team meeting.
+events@organisation.example.test,Approved purchase order,Your library book is due next Friday. Please return it on time.
+teacher@college.example.test,Project status update,Here are the lecture notes from today's class for your reference.
+team@company.example.test,Meeting agenda for tomorrow,Here are the lecture notes from today's class for your reference.
+events@organisation.example.test,Project status update,Thanks for your report. I have added comments to the shared document.
+events@organisation.example.test,Appointment confirmation,Here are the lecture notes from today's class for your reference.
+team@company.example.test,Meeting agenda for tomorrow,Please review the meeting agenda before tomorrow's team meeting.
+teacher@college.example.test,Project status update,Your library book is due next Friday. Please return it on time.
+team@company.example.test,Library book reminder,Please review the meeting agenda before tomorrow's team meeting.
+library@college.example.test,Library book reminder,The project status meeting is scheduled for 10 AM in room 204.
+team@company.example.test,Appointment confirmation,The project status meeting is scheduled for 10 AM in room 204.
+events@organisation.example.test,Project status update,Please review the meeting agenda before tomorrow's team meeting.
+library@college.example.test,Approved purchase order,Your appointment is confirmed for Monday at 3 PM.
+events@organisation.example.test,Project status update,Thanks for your report. I have added comments to the shared document.
+team@company.example.test,Meeting agenda for tomorrow,Your library book is due next Friday. Please return it on time.
+team@company.example.test,Meeting agenda for tomorrow,Here are the lecture notes from today's class for your reference.
